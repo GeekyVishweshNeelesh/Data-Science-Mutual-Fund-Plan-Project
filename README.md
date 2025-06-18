@@ -39,8 +39,9 @@ Interactive plots generated using Plotly are available in the notebook and store
 ## 📌 Usage
 
 1. Open the notebook:
-   - `Mutual_Fund_Plan_Colab.ipynb`  
-2. Run cells sequentially to load data, visualize trends, and interpret insights.
+   - `Mutual_Fund_Plan_Colab.ipynb-Colab.pdf`  
+2. View all the cells of the relevant code of the Machine Learning Project.
+3. Note: If the pdf is not available, please download the pdf and view the code base
 
 ---
 
